@@ -47,8 +47,15 @@ Motto: "Break it to understand it, build it to master it."
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Isha-Bajwa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isha-Bajwa&layout=compact&theme=radical&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/badge/Total_Contributions-456-F75C7E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Public_Repos-14-6C63FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stars_Earned-4-FFD700?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Also_Using-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Also_Using-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 <p align="center">
