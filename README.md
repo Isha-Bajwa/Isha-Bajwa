@@ -61,10 +61,13 @@ Motto: "Break it to understand it, build it to master it."
 
 ---
 
-### 🏆 Trophy Case
+### 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Isha-Bajwa&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+  <img src="https://img.shields.io/badge/GitHub_Pro-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/450%2B_Contributions-F75C7E?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/14_Public_Repos-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-000000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
 ---
@@ -79,22 +82,13 @@ Motto: "Break it to understand it, build it to master it."
 
 ### 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Isha-Bajwa/Cybersecurity-Journey">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isha-Bajwa&repo=Cybersecurity-Journey&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Isha-Bajwa/SmartMail">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isha-Bajwa&repo=SmartMail&theme=radical&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Isha-Bajwa/Data-Structures-And-Algorithms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isha-Bajwa&repo=Data-Structures-And-Algorithms&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/Isha-Bajwa/KeySprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Isha-Bajwa&repo=KeySprint&theme=radical&hide_border=true" />
-  </a>
-</p>
+| Project | Description | Tech |
+|---|---|---|
+| [🔐 Cybersecurity-Journey](https://github.com/Isha-Bajwa/Cybersecurity-Journey) | Notes, labs & write-ups from my cybersecurity learning path | ![Shell](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| [🤖 SmartMail](https://github.com/Isha-Bajwa/SmartMail) | AI-powered Gmail assistant for inbox management & drafting | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [🧮 Data-Structures-And-Algorithms](https://github.com/Isha-Bajwa/Data-Structures-And-Algorithms) | DSA implementations, complexity analysis & notes | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) |
+| [⌨️ KeySprint](https://github.com/Isha-Bajwa/KeySprint) | Typing speed analyzer with WPM, accuracy & GUI | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [💼 isha_javed_portfolio](https://github.com/Isha-Bajwa/isha_javed_portfolio) | Personal portfolio website | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) |
 
 ---
 
